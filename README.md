@@ -10,26 +10,30 @@ Ushbu loyiha Python orqali yaratilgan oddiy, lekin funksional avtomobillar qidir
 - model bo‘yicha qisqacha tavsiyalar ko‘rsatish
 - testlar bilan tekshirilgan logika
 
-## Ishlatish
+## How to use
 
-1. Terminalda loyiha papkasiga o‘ting:
+1. Clone or download this repository to your computer.
+
+2. Open the project folder in the terminal:
    ```bash
-   cd /Users/shacsim_dev/Desktop/Homework-Tasks
+   cd /path/to/Homework-Tasks
    ```
 
-2. Dasturni ishga tushiring:
+3. Run the program:
    ```bash
    python3 Task1.py
    ```
 
-3. Model nomini kiriting, masalan:
+4. Enter any car model name when prompted, for example:
    ```bash
    camry
    ```
-   yoki
+   or
    ```bash
    audi a4
    ```
+
+The program will show matching car options with price, color, type, and description.
 
 ## Testlarni ishga tushirish
 
